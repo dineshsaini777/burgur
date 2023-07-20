@@ -1,0 +1,192 @@
+:root {
+    /* color */
+    --dark-yellow: #F6E300;
+    --black: black;
+    --color: #000;
+    --color: white;
+    --light-yellow: #FFF03F;
+    --dark-red: #F4241E;
+    --text-light-green: #4D4813;
+    /* font */
+    --fs-18: 18px;
+    --fs-20: 20px;
+    --fs-36: 36px;
+    --fs-48: 48px;
+    --fs-24: 24px;
+}
+
+.hclipfont {
+    font-size: var(--fs-18);
+}
+
+.longpara {
+    font-size: var(--fs-18);
+}
+
+.faq {
+    font-size: var(--fs-48);
+}
+
+.hclip {
+    color: #000;
+}
+
+.text-light-green {
+    color: var(--text-light-green);
+}
+
+.copy {
+    font-size: var(--fs-18);
+}
+
+.copy {
+    color: #000;
+}
+
+.jhone {
+    font-size: var(--fs-24);
+}
+
+.man {
+    font-size: var(--fs-18);
+}
+
+.teamfont {
+    font-size: var(--fs-48);
+}
+
+.q4 {
+    font-size: var(--fs-48);
+}
+
+.q1 {
+    font-size: var(--fs-48);
+}
+
+.lucnh {
+    font-size: var(--fs-24);
+}
+
+.q2 {
+    font-size: var(--fs-48);
+}
+
+.road {
+    font-size: var(--fs-48);
+}
+
+.nav_font {
+    font-size: var(--fs-18);
+}
+
+.lastp {
+    font-size: var(--fs-48);
+}
+
+.Supply {
+    font-size: var(--fs-18);
+}
+
+.lastp {
+    color: white;
+}
+
+.Supply {
+    color: white;
+}
+
+.p5 {
+    font-size: var(--fs-48);
+}
+
+.market {
+    font-size: var(--fs-18);
+}
+
+.p5 {
+    color: white;
+}
+
+.market {
+    color: white;
+}
+
+.p1 {
+    font-size: var(--fs-48);
+}
+
+.p15 {
+    font-size: var(--fs-48);
+}
+
+.p16 {
+    font-size: var(--fs-18);
+}
+
+.p15 {
+    color: white;
+}
+
+.p16 {
+    color: white;
+}
+
+.p2 {
+    font-size: var(--fs-18);
+}
+
+.p1 {
+    color: white;
+}
+
+.p2 {
+    color: white;
+}
+
+.subfont {
+    font-size: var(--fs-48);
+}
+
+.bgred {
+    background-color: #F4241E;
+}
+
+.bg_dyellow {
+    background-color: #F6E300;
+}
+
+.discover {
+    color: white;
+}
+
+.sub {
+    color: white;
+}
+
+.parafont {
+    font-size: var(--fs-18);
+}
+
+.bg-clr {
+    background-color: #FFF03F;
+}
+
+.nav_font {
+    font-size: var(--fs-18);
+}
+
+.butn {
+    font-size: var(--fs-20);
+}
+
+.morefont {
+    font-size: var(--fs-20);
+}
+
+.welfont {
+    font-size: var(--fs-36);
+}
+
+.itfont {
+    font-size: var(--fs-48);
+}
